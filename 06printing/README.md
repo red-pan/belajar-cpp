@@ -1,13 +1,13 @@
 # Catatan
 
 ## `#include <iostream>`
-`#include` menyalin file iostream ke dalam aource code
+`#include` menyalin file iostream ke dalam source code.
 
-## "\n" atau std::endl
-befungsi untuk membuat baris baru
+## `"\n"` atau `std::endl`
+befungsi untuk membuat baris baru.
 
-## main ()
-adalah fungsi utama yang akan dijalankan pertama kali ketika program dijalankan
+## `main ()`
+adalah fungsi utama yang akan dijalankan pertama kali ketika program dijalankan.
 
 ## Statement
 Statement adalah perintah-perintah yang terdapat dalam code block `{}`.
