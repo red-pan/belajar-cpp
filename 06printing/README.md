@@ -1,7 +1,7 @@
 # Catatan
 
-## '#include <iostream>'
-'#include' menyalin file iostream ke dalam aource code
+## `#include <iostream>`
+`#include` menyalin file iostream ke dalam aource code
 
 ## "\n" atau std::endl
 befungsi untuk membuat baris baru
@@ -10,5 +10,5 @@ befungsi untuk membuat baris baru
 adalah fungsi utama yang akan dijalankan pertama kali ketika program dijalankan
 
 ## Statement
-Statement adalah perintah-perintah yang terdapat dalam code block '{}'.
-Setiap statement harus diakhiri dengan semi-colon ';'. Jika tidak, maka akan terjadi error.
+Statement adalah perintah-perintah yang terdapat dalam code block `{}`.
+Setiap statement harus diakhiri dengan semi-colon `;`. Jika tidak, maka akan terjadi error.
